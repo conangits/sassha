@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./", // Указывает, что все пути будут начинаться от корня проекта
+    "paths": {
+      "@/*": [
+        "frontend/src/*" // Алиас для папки src
+      ]
+    }
+  },
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}

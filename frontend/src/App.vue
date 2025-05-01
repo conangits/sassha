@@ -13,7 +13,7 @@ import sasha20 from './assets/sasha20.jpg'
 import sasha21 from './assets/sasha21.jpg'
 import sasha25 from './assets/sasha25.jpg'
 
-// Исправлен импорт музыкального файла
+// Исправлен импорт музыкального файла ss
 import knockinMusic from './assets/ss.mp3';
 
 const birthdayMessage = `Сашка, поздравляем тебя с 21-летием!
